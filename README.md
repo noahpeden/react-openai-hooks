@@ -67,4 +67,7 @@ This React hook, `useChatCompletion` aims to enable easy streaming of OpenAi res
       )
 ```
 
-### Special Thanks
+### To Do
+
+- allow for other LLM streaming responses
+- add tests
